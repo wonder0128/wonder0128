@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=My%20dream%20is-nl-to%20be%20a-nl-Shining%20Developer%20%F0%9F%A4%97)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128)](https://github.com/anuraghazra/github-readme-stats)
