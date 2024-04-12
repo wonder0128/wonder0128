@@ -1,4 +1,4 @@
-### Hello 👋
+### My Name Is Roze 👋
 
 <!--
 **wonder0128/wonder0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=500&section=header&text=My%20dream%20is-nl-to%20be%20a-nl-Shining%20Developer%20%F0%9F%A4%97)
----
 ## 1. My Stack Badges
 ## 2. GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128)](https://github.com/anuraghazra/github-readme-stats)
