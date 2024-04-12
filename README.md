@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=My%20dream%20is%20to%20%%20be%20%20a%20%%20Shining%20%%20Developer%20%%F0%9F%A4%97)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=My%20dream%20is%20to%20be%20a%20Shining%20Developer%20%F0%9F%A4%97)
