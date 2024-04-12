@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ## 1. My Stack Badges
 ## 2. GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128&bg_color=45,CC95C0,DBD4B4,7AA1D2&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 ## 3. Top Languages Chart
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonder0128&layout=compact&bg_color=45,E55D87,5FC3E4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
