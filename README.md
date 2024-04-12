@@ -1,4 +1,4 @@
-### My Name Is Roze 👋
+### :sparkles: My Name Is Roze :sparkles:
 
 <!--
 **wonder0128/wonder0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=My%20dream%20is%20to%20be%20a-nl-Shining%20Developer&fontSize=30):sparkles:
+![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=My%20dream%20is%20to%20be%20a-nl-Shining%20Developer&fontSize=30)
 
 ## 1. My Stack Badges
 ## 2. GitHub Stats
