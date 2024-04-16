@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 <div align=center>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer%20✨&fontSize=50" />
 
+  <h1>Let Me Introduce MySelf😄</h1>
   
 
-  <h1>1. My Stack Badges</h1>
+  <h1>1. My Tech Stack Badges</h1>
+  <h3>Back Tech Stacks</h3>
+  <h3>DataBase Tech Stacks</h3>
+  <h3>DevOps Tech Stacks</h3>
+  <h3>Front Tech Stacks</h3>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
   
   
