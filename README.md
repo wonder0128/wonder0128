@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer&fontSize=30" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer&fontSize=50" />
 
   
 
