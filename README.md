@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-  ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=My%20dream%20is%20to%20be%20a-nl-Shining%20Developer&fontSize=30)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Shining%20Developer&fontSize=30)
   ## 1. My Stack Badges
   ## 2. GitHub Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128&show_icons=true&theme=dracula)
