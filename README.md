@@ -28,6 +28,9 @@ Here are some ideas to get you started:
     <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=Linux&logoColor=white"/> &nbsp;
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> &nbsp;
   <h3>DataBase Tech Stacks</h3>
+    <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white"/> &nbsp;
+    <img alt="MicrosoftSQLServer" src ="https://img.shields.io/badge/MicrosoftSQLServer-CC2927.svg?&style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/> &nbsp;
+    <img alt="MySql" src ="https://img.shields.io/badge/MySql-4479A1.svg?&style=flat-square&logo=MySql&logoColor=white"/> &nbsp;
   <h3>DevOps Tech Stacks</h3>
   <h3>Front Tech Stacks</h3>
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
