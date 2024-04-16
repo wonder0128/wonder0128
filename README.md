@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
   <h1>1. My Tech Stack Badges</h1>
   <h3>Back Tech Stacks</h3>
+    <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-#6DB33F.svg?&style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp;
   <h3>DataBase Tech Stacks</h3>
   <h3>DevOps Tech Stacks</h3>
   <h3>Front Tech Stacks</h3>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
+    <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
   
   
   <h1> 2. GitHub Stats </h1>
