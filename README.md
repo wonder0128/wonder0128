@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=120&section=header&text=Shining%20Developer&fontSize=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Shining%20Developer&fontSize=30)
   
 <div align=center>  
   <h2>1. My Stack Badges</h2>
