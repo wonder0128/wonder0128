@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
+<style>
+  .content{
+    line-decoration: none;
+  }
+</style>
+<div class="content" align=center>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
   ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Shining%20Developer&fontSize=30)
