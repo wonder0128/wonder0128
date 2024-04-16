@@ -32,6 +32,8 @@ Here are some ideas to get you started:
     <img alt="MicrosoftSQLServer" src ="https://img.shields.io/badge/MicrosoftSQLServer-CC2927.svg?&style=flat-square&logo=MicrosoftSQLServer&logoColor=white"/> &nbsp;
     <img alt="MySql" src ="https://img.shields.io/badge/MySql-4479A1.svg?&style=flat-square&logo=MySql&logoColor=white"/> &nbsp;
   <h3>DevOps Tech Stacks</h3>
+    <img alt="AmazonEC2" src ="https://img.shields.io/badge/AmazonEC2-FF9900.svg?&style=flat-square&logo=AmazonEC2&logoColor=white"/> &nbsp;
+    <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/> &nbsp;
   <h3>Front Tech Stacks</h3>
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
   
