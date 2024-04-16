@@ -14,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  .content{
-    line-decoration: none;
-  }
-</style>
+
 <div class="content" align=center>
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
   ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Shining%20Developer&fontSize=30)
   ## 1. My Stack Badges
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
   ## 2. GitHub Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128&show_icons=true&theme=dracula)
   ## 3. Top Languages Chart
