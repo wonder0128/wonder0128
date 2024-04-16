@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 
   
 
-  <h2>1. My Stack Badges</h2>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
+  <h1>1. My Stack Badges</h1>
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
   
-  <h2> 2. GitHub Stats </h2>
+  
+  <h1> 2. GitHub Stats </h1>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=wonder0128&show_icons=true&theme=dracula" />
   </a>
   
-  <h2> 3. Top Languages Chart</h2>
+  <h1> 3. Top Languages Chart</h1>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonder0128&layout=compact&langs_count=10&bg_color=45,E55D87,5FC3E4&title_color=ffffff&text_color=ffffff&hide_border=False" />
   </a>
