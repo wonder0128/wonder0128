@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
   <h2>1. My Stack Badges</h2>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
   
   <h2> 2. GitHub Stats </h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
