@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=My%20dream%20is%20to%20be%20a-nl-Shining%20Developer&fontSize=30)
+  ## 1. My Stack Badges
+  ## 2. GitHub Stats
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128&show_icons=true&theme=dracula)
+  ## 3. Top Languages Chart
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonder0128&layout=compact&bg_color=45,E55D87,5FC3E4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=My%20dream%20is%20to%20be%20a-nl-Shining%20Developer&fontSize=30)
-## 1. My Stack Badges
-## 2. GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128&show_icons=true&theme=dracula)
-## 3. Top Languages Chart
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonder0128&layout=compact&bg_color=45,E55D87,5FC3E4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+</div>
