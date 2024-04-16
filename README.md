@@ -15,19 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-  ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Shining%20Developer&fontSize=30)
-</div>
 
-<div align=center>
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=100&section=header&text=Shining%20Developer&fontSize=30)
+  
+<div align=center>  
   <h2>1. My Stack Badges</h2>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
-</div>
-
-<div align=center>
+  
   <h2> 2. GitHub Stats </h2>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder0128&show_icons=true&theme=dracula)
+  
   <h2> 3. Top Languages Chart</h2>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonder0128&layout=compact&bg_color=45,E55D87,5FC3E4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 </div>
