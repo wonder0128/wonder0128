@@ -26,6 +26,7 @@ Here are some ideas to get you started:
     <img alt="Java" src ="https://img.shields.io/badge/Java-34567C.svg?&style=flat-square&logo=Java&logoColor=white"/> &nbsp;
     <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp;
     <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=Linux&logoColor=white"/> &nbsp;
+    <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> &nbsp;
   <h3>DataBase Tech Stacks</h3>
   <h3>DevOps Tech Stacks</h3>
   <h3>Front Tech Stacks</h3>
