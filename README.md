@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   <h2> 3. Top Languages Chart</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wonder0128&layout=compact&langs_count=10&bg_color=45,E55D87,5FC3E4&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
 </div>
