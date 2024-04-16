@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer&fontSize=30)
-  
 <div align=center>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer&fontSize=30" />
+
+  
+
   <h2>1. My Stack Badges</h2>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
   
