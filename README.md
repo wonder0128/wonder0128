@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
   <h1>1. My Tech Stack Badges</h1>
   <h3>Back Tech Stacks</h3>
+    <img alt="Java" src ="https://img.shields.io/badge/Java-6DB33F.svg?&style=flat-square&logo=Java&logoColor=white"/> &nbsp;
     <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=flat-square&logo=SpringBoot&logoColor=white"/> &nbsp;
   <h3>DataBase Tech Stacks</h3>
   <h3>DevOps Tech Stacks</h3>
