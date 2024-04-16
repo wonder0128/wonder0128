@@ -1,4 +1,4 @@
-### :sparkles: My Name Is Roze :sparkles:
+
 
 <!--
 **wonder0128/wonder0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer%20✨&fontSize=50" />
 
   
 
