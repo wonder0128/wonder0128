@@ -19,7 +19,10 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer%20✨&fontSize=50" />
 
   <h1>Let Me Introduce MySelf😄</h1>
-  
+  <span>
+    자바 백엔드로 취업했지만 빠른 적응력과 순발력으로 프로젝트의 니즈를 파악하였으며 코드를 작성하고 작성한 코드를 실행했을 때 정상적으로 돌아갔을때의 쾌감과 원하는 결과가 나오지 않았을때에는 해당 오류를 찾아보고 스스로 고쳐보고 그에 해당하는 문제점을 동료들과 피드백을 나누는걸 좋아합니다.
+    다양한 직무 경험을 위해 프론트엔드 공부를 꾸준히 하고 있으며 더 많은 경력이 쌓일 경우 풀스택이 되고 싶은 가장 빛나는 개발자가 되고 싶습니다.
+  </span>
 
   <h1>1. My Tech Stack Badges</h1>
   <h3>Back Tech Stacks</h3>
