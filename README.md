@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shining%20Developer%20✨&fontSize=50" />
 
   <h1>Let Me Introduce MySelf😄</h1>
-  <span>
+  <span align="left">
     자바 백엔드 개발자로서 취업 후, 빠른 적응력과 문제 해결 능력을 바탕으로 프로젝트의 요구사항을 신속히 파악하고 실질적인 성과를 내는 데 집중해 왔습니다. <br/>
     코드를 작성하고 그것이 의도한 대로 정확히 작동했을 때 느끼는 성취감은 저에게 큰 동기를 부여하며, <br/>
     반대로 예상치 못한 오류가 발생했을 때 이를 탐구하고 해결해 나가는 과정에서도 큰 즐거움을 느낍니다. <br/>
