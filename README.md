@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img alt="HTML5" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> &nbsp;
     <img alt="CSS3" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/> &nbsp;
     <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
-    <img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/> &nbsp;
+    <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> &nbsp;
     <img alt="Json" src ="https://img.shields.io/badge/Json-000000.svg?&style=flat-square&logo=Json&logoColor=white"/> &nbsp;
   
   
